@@ -1,4 +1,3 @@
-#!/bin/bash
 #include <stdio.h>
 /**
  * main -A program that prints  a line followed by a new line with puts function
